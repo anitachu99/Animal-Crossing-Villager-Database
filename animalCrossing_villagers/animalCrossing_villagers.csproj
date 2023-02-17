@@ -17,12 +17,10 @@
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Views\Villagers\" />
     <None Remove="Views\Home\" />
-    <None Remove="Data\" />
     <None Remove="MySqlConnector" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Villagers\" />
     <Folder Include="Views\Home\" />
-    <Folder Include="Data\" />
   </ItemGroup>
 </Project>
