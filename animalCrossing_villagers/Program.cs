@@ -45,6 +45,7 @@ namespace animalCrossing_villagers
                     villager.Color1 = reader.GetString("Color 1");
                     villager.Color2 = reader.GetString("Color 2");
                     villager.Wallpaper = reader.GetString("Wallpaper");
+                    villager.Flooring = reader.GetString("Flooring");
                     villager.FurnitureList = reader.GetString("Furniture List");
                     villager.Filename = reader.GetString("Filename");
                     villager.UniqueEntryID = reader.GetString("Unique Entry ID");

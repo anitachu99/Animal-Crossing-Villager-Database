@@ -24,6 +24,7 @@ namespace animalCrossing_villagers.Models
         public string? Color1 { get; set; }
         public string? Color2 { get; set; }
         public string? Wallpaper { get; set; }
+        public string? Flooring { get; set; }
         public string? FurnitureList { get; set; }
         public string? Filename { get; set; }
         public string? UniqueEntryID { get; set; }
